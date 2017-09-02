@@ -1,0 +1,39 @@
+1、阿里巴巴矢量图
+阿里巴巴矢量图标网站，国内的一个很不错的图标下载网站。
+http://www.iconfont.cn/
+
+2、easyicon 
+需要英文搜索，但是在搜索框里输入中文，网站会自动转化为英文
+http://www.easyicon.net/
+
+3、FlatIcon 
+图标很丰富而且很有设计感的网站
+http://www.flaticon.com/
+
+4、Icon8 
+20秒内产生任何格式、大小和颜色的图标
+https://zh.icons8.com/
+
+5、UI图标库 
+主要是APP网页图标，电商图标和社区图标
+http://tool.58pic.com/tubiaobao/
+
+6、iSlide
+用于演示设计的PowerPoint软件
+https://www.islide.cc/
+
+7、iconfinder
+不错的独眼图标搜索
+https://www.iconfinder.com/
+
+8、Material icons
+超过900个Material Design风格类型的图标
+https://material.io/icons/
+
+9、iconmonstr
+iconmonstr网站收录了超过3600个图标，并对其进行了分类
+https://iconmonstr.com/
+
+10、Noun Project
+图标不错，但是免费版有水印
+https://thenounproject.com/
